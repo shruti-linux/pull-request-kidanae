@@ -1,1 +1,2 @@
 this is the code file for main application 
+hi this is a mobile website code 
